@@ -1,5 +1,0 @@
-*.tfvars
-*.tfstate*
-.terraform*
-*.pkrvars.hcl
-.*
