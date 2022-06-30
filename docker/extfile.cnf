@@ -1,0 +1,2 @@
+subjectAltName = DNS:aipc,IP:165.22.63.37,IP:127.0.0.1
+extendedKeyUsage = serverAuth
